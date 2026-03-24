@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Lab files
+*.docx
+
+# Claude
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store

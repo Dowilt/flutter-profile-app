@@ -1,0 +1,8 @@
+.git
+.gitignore
+.claude
+*.docx
+build/
+.dart_tool/
+.packages
+README.md
