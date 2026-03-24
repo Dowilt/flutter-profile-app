@@ -160,7 +160,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 radius: 60,
                 backgroundColor: Colors.deepPurple,
                 child: Text(
-                  'ОД',
+                  'ОЗ',
                   style: TextStyle(
                     fontSize: 40,
                     color: Colors.white,
@@ -170,7 +170,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               const SizedBox(height: 16),
               // Имя
               const Text(
-                'Олег Довильт',
+                'Олег Зайцев',
                 style: TextStyle(
                   fontSize: 26,
                   fontWeight: FontWeight.bold,
@@ -220,7 +220,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     ListTile(
                       leading: Icon(Icons.school, color: Colors.orange),
                       title: Text('Университет'),
-                      subtitle: Text('НГТУ'),
+                      subtitle: Text('НГУЭУ — Новосибирский государственный университет экономики и управления'),
                     ),
                     Divider(),
                     ListTile(
